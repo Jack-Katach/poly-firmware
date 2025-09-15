@@ -1,14 +1,8 @@
 <PHONE_IMAGES>
   <REVISION>
     <PHONE_IMAGE>
-      <firmware>
-  <version>6.4.5.10011</version>
-  <url>https://raw.githubusercontent.com/Jack-Katach/poly-firmware/main/2201-48820-001.sip.ld</url>
-</firmware>
+      <VERSION>6.4.5.10011</VERSION>
+      <FILE>https://drive.google.com/uc?export=download&id=1qSilC8w-S01GzYVne85qPNj08UO7VY2w</FILE>
     </PHONE_IMAGE>
   </REVISION>
 </PHONE_IMAGES>
-
-
-
-
